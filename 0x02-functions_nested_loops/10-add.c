@@ -1,3 +1,14 @@
-[master fae0f37] 10. a + b
- 1 file changed, 1 insertion(+)
- create mode 100755 0x02-functions_nested_loops/10-add.c
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * add -prints add two numbers
+ *@i: print int i
+ *@k: print int k
+ * Return: Always 0.
+ */
+
+int add(int i, int k)
+{
+return (i + k);
+}
