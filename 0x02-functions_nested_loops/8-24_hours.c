@@ -6,8 +6,9 @@
 * m: minutes
 * Return: return program's execution status
 */
-void jack_bauer(void)
+int main(void)
 {
+   jack_bauer(void){
 	int h;
 	int m;
 
@@ -23,5 +24,6 @@ void jack_bauer(void)
 			_putchar('\n');
 		}
 	}
+   }
 	return (0);
 }
