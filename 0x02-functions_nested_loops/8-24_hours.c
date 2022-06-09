@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
 * jack_bauer - function that prints all day  minutes
