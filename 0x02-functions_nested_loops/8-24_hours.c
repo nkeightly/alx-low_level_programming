@@ -1,10 +1,13 @@
 #include "main.h"
+
+
 /**
 * jack_bauer - function that prints all day  minutes
 * h: hour
 * m: minutes
 * Return: return program's execution status
 */
+
 int main(void)
 {
 jack_bauer(void){
