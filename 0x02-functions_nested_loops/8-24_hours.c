@@ -8,7 +8,7 @@
 */
 int main(void)
 {
-   jack_bauer(void){
+jack_bauer(void){
 	int h;
 	int m;
 
@@ -24,6 +24,6 @@ int main(void)
 			_putchar('\n');
 		}
 	}
-   }
+ }
 	return (0);
 }
